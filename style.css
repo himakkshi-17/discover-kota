@@ -25,7 +25,6 @@ body{
 }
 img{
   max-width: 100%;
-  margin: 1rem;
 }
 .wrapper{
   display: grid;
